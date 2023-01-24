@@ -18,7 +18,7 @@ SPECS:
 
 7. While playing the game the user can generate no errors. If the user attempts to add in a keyboard value not 1-9, the game shows no error. Additionally, the user can attempt to delete an already blank cell with no error.
 
-8. If the board is successfully completed, all cells will turn green and a message will appear saying you won
+8. If the board is successfully completed, all cells will turn green and a message will appear saying you won.
 
 9. The game will compute a score for a board once completed. The score will be based on the number of moves (clicks) to reach the solution whereas a message with either "excellent", "good", or "okay" will appear on the final screen when the game is finished depending on the amount of clicks that the user did.
 
